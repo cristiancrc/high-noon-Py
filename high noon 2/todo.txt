@@ -1,0 +1,6 @@
+bugs reported:
+- carriage stops colliding after a while
+
+suggestions:
+- reload the gun
+- sound when carriage fires back
